@@ -1,0 +1,2 @@
+C:\irvine\examples\ch09\32 bit\Binary_Search\Debug\Binary_Search.exe
+C:\irvine\examples\ch09\32 bit\Binary_Search\Debug\Binary_Search.pdb
